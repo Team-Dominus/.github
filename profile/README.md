@@ -1,11 +1,11 @@
-# Team-Dominus
+# 🎮 Team-Dominus
 <p>
     <img src = "https://avatars.githubusercontent.com/u/216260753?s=200&v=4"/>
 </p>
 
 ---
 
-### Description
+## 📝 Description
 
 <br>
 
@@ -24,4 +24,12 @@
 무엇보다 도미노의 어원처럼.. 우리는 이 팀의 <mark>Dominus</mark> 입니다.
 
 ---
+<br>
 
+## 🖋️ Commit Message
+
+'add' : 새로운 에셋 추가 커밋
+
+'feat' : 새로운 기능 커밋
+
+'fix' : 오류 수정 커밋
